@@ -1,0 +1,11 @@
+[
+  {
+    "id": "loot-to-forge",
+    "name": "+1 ของรางวัลที่จะหลอม (Loot to Forge)",
+    "placeIds": [118805555015549],
+    "scriptUrl": "https://raw.githubusercontent.com/LunarLightG/LunarHub/refs/heads/main/LootToForge.lua",
+    "status": "active",
+    "version": "1",
+    "description": "Auto Train, Auto Stage, Auto Forge"
+  }
+]
